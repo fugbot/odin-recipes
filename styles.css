@@ -34,5 +34,17 @@ img {
 .ingredients-list {
     background-color: lightgrey;
     color: rebeccapurple;
+    margin: 100px auto;
+    padding: 20px;
 }
 
+.directions-list {
+    display: block;
+    border: green solid 2px;
+    padding-right: 100px;
+}
+
+div {
+    border: 5px grey dotted;
+    padding: 30px;
+}
